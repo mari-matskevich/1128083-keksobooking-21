@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Марина Мацкевич](https://up.htmlacademy.ru/javascript/21/user/1128083).
-* Наставник: `Неизвестно`.
+* Наставник: Жора Милевский.
 
 ---
 
